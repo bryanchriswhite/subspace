@@ -1,9 +1,0 @@
-*
-!/crates
-!/cumulus
-!/orml
-!/substrate
-!/test
-!/Cargo.lock
-!/Cargo.toml
-!/rust-toolchain.toml
